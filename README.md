@@ -1,0 +1,1 @@
+# Responsive Portfolio\n\nResponsive personal portfolio practice project using HTML, CSS, and JavaScript. Features a mobile menu, smooth section navigation, project cards, and dynamic footer year. Open `index.html` in a browser.
